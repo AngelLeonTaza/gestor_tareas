@@ -38,7 +38,7 @@
     "Python.gestor_tarea.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop"
+    "git-widget-placeholder": "release/2.0.0"
   }
 }]]></component>
   <component name="RunManager">
